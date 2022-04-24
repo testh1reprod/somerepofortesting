@@ -50,7 +50,7 @@
     "packages/angular/projects/ui-angular"
   ],
   "resolutions": {
-    "ansi-regex": "5.0.0",
+    "ansi-regex": "5.0.1",
     "ansi-html": "0.0.8",
     "async": "^3.2.2",
     "cssnano-preset-simple": "3.0.0",
@@ -80,6 +80,6 @@
     "wait-on": "^6.0.0"
   },
   "lint-staged": {
-    "*.{ts,tsx,js,css,md,mdx}": "prettier --write"
+    "*.{ts,tsx,js,css,md}": "prettier --write"
   }
 }
