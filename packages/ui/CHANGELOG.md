@@ -1,5 +1,11 @@
 # @aws-amplify/ui
 
+## 3.6.6
+
+### Patch Changes
+
+- [#1755](https://github.com/aws-amplify/amplify-ui/pull/1755) [`84fd81868`](https://github.com/aws-amplify/amplify-ui/commit/84fd818689daa5220bfb55ebee7e280454e1c705) Thanks [@hbuchel](https://github.com/hbuchel)! - fix: Resets select option text color to fix windows darkmode bug
+
 ## 3.6.5
 
 ### Patch Changes
